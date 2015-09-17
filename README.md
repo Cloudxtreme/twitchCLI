@@ -10,6 +10,7 @@ the twitch CLI is a simple tool that fetches your follows from twitch and spits 
 ## Intstallation and Setup 
 The twitch CLI tool utilizies the twitch api token of which can be fetched at api.twitch.tv. To locally store the token for use, please modify cfg/default.cfgwhich houses the settings used by the twitch cli tool. 
 
+Since the tool is written in ruby as a way to teach myself, you will need to have ruby installed. You can just fetch the latest version from your package manager or repository of your choice. you can also install it from https://www.ruby-lang.org/en/
 
 ## Misc
 include info about livestreamer helper functions 
